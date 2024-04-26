@@ -7,3 +7,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original-wordmark.svg" title="Foundation" alt="Foundation" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://t.me/mr_rajabboyev">
+  <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
+</a>&nbsp;
+<a href="mailto:shkoga.irbuc@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/asadbek-rajabboyev">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
