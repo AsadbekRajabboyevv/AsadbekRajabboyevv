@@ -9,6 +9,7 @@
 </div>
 <h3 align="left">Real projectts with me:</h3>
 <a href="http://83.69.136.24:7072/login">e-ijro.uz</a>
+<a href="http://185.196.214.91:8080/authenticate">Osuda Vatan</a>
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/mr_rajabboyevv">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
