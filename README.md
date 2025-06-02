@@ -23,6 +23,8 @@
     <img src="https://github-readme-streak-stats-davevad93s-projects.vercel.app/?user=asadbekrajabboyevv&&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&theme=chartreuse-dark" alt="AsadbekRajabboyevv" width=300 />
   </a>
 </div>
+  <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Portfolio:" alt="Typing SVG" /></a></summary>
+  <a href="http://asadbek-rajabboyev.uz" target="_blank">asadbek-rajabboyev.uz</a></strong><br><br>
 <hr>
   <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Top+Porjects:" alt="Typing SVG" /></a></summary>
   <a href="http://90.156.199.148:7072/login" target="_blank">e-ijro.uz</a></strong><br><br>
