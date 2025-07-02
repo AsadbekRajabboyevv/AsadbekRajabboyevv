@@ -27,6 +27,7 @@
   <a href="http://asadbek-rajabboyev.uz" target="_blank">asadbek-rajabboyev.uz</a></strong><br><br>
 <hr>
   <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Top+Porjects:" alt="Typing SVG" /></a></summary>
+  <a href="https://app.urganchshahar.uz/authenticate" target="_blank">app.urganchshahar.uz</a></strong><br><br>
   <a href="http://90.156.199.148:7072/login" target="_blank">e-ijro.uz</a></strong><br><br>
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Contact+with+me:" alt="Typing SVG" /></a>
