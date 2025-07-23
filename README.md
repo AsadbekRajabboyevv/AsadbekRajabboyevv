@@ -63,7 +63,7 @@
   </a>
 </div>
 
-**🏢 [Urganch Smart City](https://urganchshahar.uz/authenticate)**
+**🏢 [Urgench Smart City](https://urganchshahar.uz)**
 
 **📋 [E-Ijro Platform](http://90.156.199.148:7072/login)**
 
